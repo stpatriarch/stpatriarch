@@ -1,6 +1,6 @@
 ## :memo: Projects
 
-[NerdNote](https://github.com/stpatriarch/nerdnote/tree/development) - CLI tool: Take short notes in terminal without quitting from it. tool use markdown format.
+[NerdNote](https://github.com/stpatriarch/nerdnote) - CLI tool: Take short notes in terminal without quitting from it. tool use markdown format.
 
 [Json2Sql](https://github.com/stpatriarch/json2sql) - CLI tool: Helps to convert or write data (depends on the engine) from json files to **sqlite3, postgresql or mysql**.
 
